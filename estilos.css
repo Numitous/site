@@ -1,3 +1,7 @@
 body{
-    background-image:"portugal-flag-1-3801889672.jpg";
+   body {
+    background-image: url(pt_r.jpg);
+    background-size: 25em;
+    background-attachment: fixed;
+    background-repeat: no-repeat;;
 }
